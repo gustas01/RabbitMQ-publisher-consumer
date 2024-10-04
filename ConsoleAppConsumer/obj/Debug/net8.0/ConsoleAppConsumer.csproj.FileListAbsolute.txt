@@ -1,0 +1,17 @@
+C:\Users\Gustavo\source\repos\ApiRabbitMq\ConsoleAppConsumer\bin\Debug\net8.0\ConsoleAppConsumer.exe
+C:\Users\Gustavo\source\repos\ApiRabbitMq\ConsoleAppConsumer\bin\Debug\net8.0\ConsoleAppConsumer.deps.json
+C:\Users\Gustavo\source\repos\ApiRabbitMq\ConsoleAppConsumer\bin\Debug\net8.0\ConsoleAppConsumer.runtimeconfig.json
+C:\Users\Gustavo\source\repos\ApiRabbitMq\ConsoleAppConsumer\bin\Debug\net8.0\ConsoleAppConsumer.dll
+C:\Users\Gustavo\source\repos\ApiRabbitMq\ConsoleAppConsumer\bin\Debug\net8.0\ConsoleAppConsumer.pdb
+C:\Users\Gustavo\source\repos\ApiRabbitMq\ConsoleAppConsumer\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\Gustavo\source\repos\ApiRabbitMq\ConsoleAppConsumer\obj\Debug\net8.0\ConsoleAppConsumer.csproj.AssemblyReference.cache
+C:\Users\Gustavo\source\repos\ApiRabbitMq\ConsoleAppConsumer\obj\Debug\net8.0\ConsoleAppConsumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\source\repos\ApiRabbitMq\ConsoleAppConsumer\obj\Debug\net8.0\ConsoleAppConsumer.AssemblyInfoInputs.cache
+C:\Users\Gustavo\source\repos\ApiRabbitMq\ConsoleAppConsumer\obj\Debug\net8.0\ConsoleAppConsumer.AssemblyInfo.cs
+C:\Users\Gustavo\source\repos\ApiRabbitMq\ConsoleAppConsumer\obj\Debug\net8.0\ConsoleAppConsumer.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\source\repos\ApiRabbitMq\ConsoleAppConsumer\obj\Debug\net8.0\ConsoleA.D0992724.Up2Date
+C:\Users\Gustavo\source\repos\ApiRabbitMq\ConsoleAppConsumer\obj\Debug\net8.0\ConsoleAppConsumer.dll
+C:\Users\Gustavo\source\repos\ApiRabbitMq\ConsoleAppConsumer\obj\Debug\net8.0\refint\ConsoleAppConsumer.dll
+C:\Users\Gustavo\source\repos\ApiRabbitMq\ConsoleAppConsumer\obj\Debug\net8.0\ConsoleAppConsumer.pdb
+C:\Users\Gustavo\source\repos\ApiRabbitMq\ConsoleAppConsumer\obj\Debug\net8.0\ConsoleAppConsumer.genruntimeconfig.cache
+C:\Users\Gustavo\source\repos\ApiRabbitMq\ConsoleAppConsumer\obj\Debug\net8.0\ref\ConsoleAppConsumer.dll

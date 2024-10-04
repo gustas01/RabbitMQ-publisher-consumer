@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Luj/BASBKCZOYTiB9DSaVOJNoLYvo356GTIa1cApll8=",
+  "Source": "ApiRabbitMq",
+  "BasePath": "_content/ApiRabbitMq",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
